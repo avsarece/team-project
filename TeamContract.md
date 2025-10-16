@@ -58,4 +58,8 @@ By signing below, we acknowledge that we have read, discussed, and agreed to the
 
 Team Member Signatures:
 
+Martin Nguyen
+Tomas Jurisica
+Cindy Yang
+Alessandro Iucci
 Ece Avsar
