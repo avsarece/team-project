@@ -60,3 +60,4 @@ Team Member Signatures:
 
 (type names here)
 Martin Nguyen
+Tomas Jurisica
