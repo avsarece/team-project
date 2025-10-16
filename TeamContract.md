@@ -62,3 +62,4 @@ Team Member Signatures:
 Martin Nguyen
 Tomas Jurisica
 Cindy Yang
+Alessandro Iucci
